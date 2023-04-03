@@ -17,3 +17,7 @@ pip install -r requirements.txt
 
 # Results
 The models achieved an accuracy greater than 90%.
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
